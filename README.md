@@ -8,7 +8,7 @@ Requires NordVPN (used to attempt to bypass bot detection)
 
 # Install
 Create a project in your IDLE (I recommend PyCharm) and copy over the
-main.py and settings_nordvpn.txt to the project. Run main.py and
+main.py file to the project. Run it and
 it will require you to input any letter to start the program.
 If you want to stop it, hit Control+Alt+Delete and move your mouse
 to a corner of the screen, then close out of the menu.
